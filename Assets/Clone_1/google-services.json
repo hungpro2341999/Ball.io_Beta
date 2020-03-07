@@ -1,0 +1,243 @@
+{
+  "project_info": {
+    "project_number": "873581758921",
+    "firebase_url": "https://free-fun-game-puzzle.firebaseio.com",
+    "project_id": "free-fun-game-puzzle",
+    "storage_bucket": "free-fun-game-puzzle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873581758921:android:83962e64c42ef4ce53c018",
+        "android_client_info": {
+          "package_name": "com.ball.action.rolling.bumbumbum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873581758921-p54a3jdgrhcs4p30vn9hf6senut8d6l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYqFIMTq8Uf0qsj4o64lCIPjGjsC9-fjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873581758921-p54a3jdgrhcs4p30vn9hf6senut8d6l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873581758921:android:06693957a850876753c018",
+        "android_client_info": {
+          "package_name": "com.galaxyshooting.survival"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873581758921-p54a3jdgrhcs4p30vn9hf6senut8d6l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYqFIMTq8Uf0qsj4o64lCIPjGjsC9-fjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873581758921-p54a3jdgrhcs4p30vn9hf6senut8d6l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873581758921:android:9f7f860e0d45c0a453c018",
+        "android_client_info": {
+          "package_name": "com.jewel.matchgame.paradise.islandjewels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873581758921-p54a3jdgrhcs4p30vn9hf6senut8d6l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYqFIMTq8Uf0qsj4o64lCIPjGjsC9-fjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873581758921-p54a3jdgrhcs4p30vn9hf6senut8d6l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873581758921:android:4e2995d7aa610ab353c018",
+        "android_client_info": {
+          "package_name": "com.puzzle.block.master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873581758921-p54a3jdgrhcs4p30vn9hf6senut8d6l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYqFIMTq8Uf0qsj4o64lCIPjGjsC9-fjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873581758921-p54a3jdgrhcs4p30vn9hf6senut8d6l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873581758921:android:be867470ba29fcfe53c018",
+        "android_client_info": {
+          "package_name": "com.puzzle.shooting.merge.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873581758921-p54a3jdgrhcs4p30vn9hf6senut8d6l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYqFIMTq8Uf0qsj4o64lCIPjGjsC9-fjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873581758921-p54a3jdgrhcs4p30vn9hf6senut8d6l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873581758921:android:33bf487fabe5932253c018",
+        "android_client_info": {
+          "package_name": "com.slam.dunk.basketball.na.sport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873581758921-p54a3jdgrhcs4p30vn9hf6senut8d6l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYqFIMTq8Uf0qsj4o64lCIPjGjsC9-fjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873581758921-p54a3jdgrhcs4p30vn9hf6senut8d6l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873581758921:android:cbcb1c16b0727d4d53c018",
+        "android_client_info": {
+          "package_name": "com.topgamefree.mayan.block.puzzle.jewel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873581758921-p54a3jdgrhcs4p30vn9hf6senut8d6l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYqFIMTq8Uf0qsj4o64lCIPjGjsC9-fjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873581758921-p54a3jdgrhcs4p30vn9hf6senut8d6l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873581758921:android:2dffaa36098be7ba53c018",
+        "android_client_info": {
+          "package_name": "uk.hockey.deluxe.classic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873581758921-p54a3jdgrhcs4p30vn9hf6senut8d6l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYqFIMTq8Uf0qsj4o64lCIPjGjsC9-fjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873581758921-p54a3jdgrhcs4p30vn9hf6senut8d6l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
